@@ -622,7 +622,7 @@ p{
   .itp{
     width:100%;
     height:1650px;
-    border:none;
+    border:1px solid lightgray;
     background-image:url('../images/Kich-thuoc-1600x1545.png');
     background-size:100%;
     background-repeat:no-repeat;
@@ -632,6 +632,8 @@ p{
     position:absolute;
     top:77%;
     left:17%;
+    font-size:40px;
+
   }
 
   .customers-service{
@@ -868,156 +870,192 @@ p{
   
   .marketing-department{
     position:absolute;
-    top:77%;
-    left:17%;
+    top:76%;
+    left:16%;
+    font-size:40px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .customers-service{
     position:absolute;
-    top:77%;
-    left:70%;
+    top:75%;
+    left:69%;
+    font-size:40px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .logo_nhatnam{
     position:absolute;
-    top:97%;
-    left:4%;
+    top:99%;
+    left:4.4%;
   }
 
   .nhatnam_project{
     position:absolute;
-    top:98%;
+    top:95.2%;
     left:9%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   .logo_vset{
     position:absolute;
-    top:97%;
-    left:30%;
+    top:99%;
+    left:31%;
   }
   
   .vset_project{
     position:absolute;
-    top:98%;
+    top:95%;
+    left:36%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team7{
     margin-top:12%;
-    margin-left:-1%;
-    font-size:20px;
+    margin-left:-1.4%;
+    font-size:27.5px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .content-team7{
-    font-size:20px;
-    font-weight:bolder;
-    margin-left:-2%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left:-1%;
+    margin-top:1%;
   }
   
   .content-team7-members{
     margin-top:11%;
     margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .seo-team7{
-    font-size:20px;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-top:-1.4%;
     margin-left:-1%;
-    font-weight:bolder;
   }
   
   .seo-team7-members{
-    margin-top:-4%;
-    margin-left:0%;
+    margin-top:-3%;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .ads-team7{
-    font-size:20px;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-top:-3%;
-    font-weight:bolder;
+    margin-left:-1%;
   }
 
   .ads-team7-members{
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-top:-5%;
+    margin-left:-1%;
   }
 
   .team8{
     margin-top:12%;
-    margin-left:-1%;
-    font-size:20px;
+    margin-left:-1.4%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .content-team8{
     margin-top:0.7%;
-    margin-left:-2%;
-    font-size:20px;
-    font-weight:bolder;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .content-team8-members{
     margin-top:-2%;
-    margin-left:-2%;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   .design-team8{
-    font-size:20px;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-top:-1.2%;
-    margin-left:-2%;
-    font-weight:bolder;
+    margin-left:-1%;
   }
 
   .design-team8-members{
-    margin-top:-4%;
-    margin-left:-2%;
+    margin-top:-3%;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .seo-team8{
-    margin-top:-2.4%;
-    margin-left:-2%;
-    font-size:20px;
-    font-weight:bolder;
+    margin-top:-2.5%;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .seo-team8-members{
-    margin-top:-6%;
-    margin-left:-2%;
+    margin-top:-5%;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .ads-team8{
     margin-top:-4%;
-    font-size:20px;
-    margin-left:-2%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-left:-1%;
   }
 
   .ads-team8-members{
     margin-top:-6%;
-    margin-left:-2%;
+    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9{
     margin-top:12%;
-    margin-left:-1%;
-    font-size:20px;
+    margin-left:-1.5%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-content{
-    font-size:20px;
-    margin-top:-1%;
-    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:-0.5%;
+    margin-left:-1.2%;
   }
 
   .team9-content-members{
     margin-top:-2%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-ads{
-    font-size:20px;
-    margin-top:-1%;
-    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:-0.5%;
+    margin-left:-1.2%;
   }
   
   .team9-ads-members{
     margin-top:-2%;
     margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   p{
@@ -1025,71 +1063,90 @@ p{
   }
 
   .team9-video{
-    font-size:20px;
-    margin-top:-1%;
-    margin-left:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:-0.5%;
+    margin-left:-1.2%;
   }
 
   .team9-video-members{
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-top:-2%;
-    margin-left:-1%;
+    margin-left:-1.5%;
   }
   
   .team9-seo{
-    font-size:20px;
-    margin-top:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:-0.5%;
     margin-left:-2%;
   }
 
   .team9-seo-members{
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
     margin-top:-2%;
     margin-left:-2%;
   }
 
   .team9-design{
-    font-size:20px;
-    margin-top:-1%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-top:-0.5%;
     margin-left:-2%;
   }
 
   .team9-design-members{
     margin-top:-2%;
     margin-left:-2%;
+    font-size:21px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
   
   .logo-vset{
+    width:3%;
     position:absolute;
-    top:93%;
-    left:67%;
+    top:95%;
+    left:68%;
   }
   
   .du-an-vset{
     position:absolute;
-    top:93%;
+    top:90.5%;
     left:57%;
-    font-size:25px;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .vset-group-members{
     margin-top:11%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .logo-nhatnam{
+    width:3%;
     position:absolute;
-    top:93%;
-    left:93%;
+    top:94%;
+    left:93.5%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .du-an-nhat-nam{
-    font-size:25px;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
     position:absolute;
-    top:93%;
+    top:90%;
     left:78%;
   }
   
   .nhatnam-group-members{
     margin-top:11%;
     margin-left:-2%;
+    font-size:30px;
+    font-family: 'Source Sans Pro', sans-serif;
   }
 }
 
