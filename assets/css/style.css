@@ -1,0 +1,1287 @@
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.col-12{
+  width:100%;
+  float:left;
+}
+
+.itp{
+  width:100%;
+  height:1605px;
+  border:1px solid lightgray;
+  background-image:url('../images/kich-thuoc-1920x1620.png');
+}
+
+.marketing-department{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  left:18%;
+  top:52%;
+  font-size:45px;
+}
+
+.customers-service{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  left:72%;
+  top:52%;
+  font-size:45px;
+}
+
+.logo_nhatnam{
+  width:3%;
+  position:absolute;
+  top:75%;
+  left:5.5%;
+}
+
+.nhatnam_project{
+  text-transform:uppercase;
+  font-size:22px;
+  color:#fff;
+  position:absolute;
+  left:10%;
+  top:75%;
+  font-weight:bold;
+}
+
+.logo_vset{
+  width:3%;
+  position:absolute;
+  top:75%;
+  left:32.4%;  
+}
+
+.vset_project{
+  text-transform:uppercase;
+  font-size:22px;
+  color:#fff;
+  position:absolute;
+  left:37%;
+  top:75%;
+  font-weight:bold;
+}
+
+.team7{
+  text-transform:uppercase;
+  color:#fff;
+  font-weight:bold;
+  font-size:27px;
+  position:absolute;
+  top:95%;
+  left:5%;
+}
+
+.content-team7{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  top:980px;
+  left:8%;
+  font-size:25px;
+}
+
+p{
+ font-size:20px;
+ text-transform:uppercase;
+ color:#fff;
+}
+
+.content-team7-members{
+  position:absolute;
+  top:112%;
+  left:8%;
+}
+
+.seo-team7{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  top:1199px;
+  left:8%;
+  font-size:25px;
+}
+
+.seo-team7-members{
+  position:absolute;
+  top:1267px;
+  left:8%;
+}
+
+.ads-team7{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  top:1330px;
+  left:8%;
+  font-size:25px;
+}
+
+.ads-team7-members{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  top:1399px;
+  left:8%;
+  font-size:25px;
+}
+
+.team8{
+  text-transform:uppercase;
+  color:#fff;
+  font-weight:bold;
+  font-size:27px;
+  position:absolute;
+  top:100%;
+  left:22.5%;
+}
+
+.content-team8{
+  text-transform:uppercase;
+  color:#fff;
+  position:absolute;
+  top:1029px;
+  left:25%;
+  font-size:25px;
+  font-weight:bold;
+}
+
+.content-team8-members{
+  position:absolute;
+  top:1095px;
+  left:25%;
+}
+
+.design-team8{
+  position:absolute;
+  top:1192px;
+  left:25%;
+  font-weight:bold;
+  font-size:25px;
+}
+
+.design-team8-members{
+  position:absolute;
+  top:1265px;
+  left:25%;
+}
+
+.seo-team8{
+  position:absolute;
+  top:1308px;
+  left:25%;
+  font-weight:bold;
+  font-size:25px;
+}
+
+.seo-team8-members{
+  position:absolute;
+  top:1390px;
+  left:25%;
+}
+
+.ads-team8{
+  font-weight:bold;
+  position:absolute;
+  top:1429px;
+  left:25%;
+  font-size:25px;
+}
+
+.ads-team8-members{
+  position:absolute;
+  top:1495px;
+  left:25%;
+}
+
+.team9{
+  text-transform:uppercase;
+  color:#fff;
+  font-weight:bold;
+  font-size:27px;
+  position:absolute;
+  top:106%;
+  left:40%;
+}
+
+.team9-content{
+  font-weight:bold;
+  position:absolute;
+  top:1117px;
+  left:45.3%;
+  font-size:25px;
+}
+
+.team9-content-members{
+  position:absolute;
+  top:1159px;
+  left:46%;
+}
+
+.team9-ads{
+  font-weight:bold;
+  font-size:25px;
+  position:absolute;
+  top:1117px;
+  left:57%;
+  font-size:25px;
+}
+
+.team9-ads-members{
+  position:absolute;
+  top:1157px;
+  left:57%;
+  font-size:25px;
+}
+
+.team9-video{
+  position:absolute;
+  top:1117px;
+  left:66%;
+  font-size:25px;
+  font-weight:bold;
+}
+
+.team9-video-members{
+  position:absolute;
+  top:1155px;
+  left:66%;
+  font-size:25px;
+}
+
+.team9-seo{
+  position:absolute;
+  top:1117px;
+  left:77%;
+  font-size:25px;
+  font-weight:bold;
+}
+
+.team9-seo-members{
+  position:absolute;
+  top:1155px;
+  left:77%;
+  font-size:25px;
+}
+
+.team9-design{
+  position:absolute;
+  top:1117px;
+  left:85%;
+  font-size:25px;
+  font-weight:bold;
+}
+
+.team9-design-members{
+  position:absolute;
+  top:1155px;
+  left:86%;
+  font-size:25px;
+}
+
+.logo-vset{
+  width:5%;
+  position:absolute;
+  left:69.2%;
+  top:69%;
+}
+
+.vset-group{
+  font-size:25px;
+  text-transform:uppercase;
+  color:#fff;
+}
+
+.du-an-vset{
+  position:absolute;
+  left:59%;
+  top:69%;
+}
+
+.logo-nhatnam{
+  width:4.5%;
+  position:absolute;
+  left:95%;
+  top:69%;
+}
+
+.du-an-nhat-nam{
+  position:absolute;
+  left:82%;
+  top:70%;
+  text-transform:uppercase;
+  font-size:25px;
+  color:#fff;
+}
+
+.vset-group-members{
+  position:absolute;
+  left:62%;
+  top:79%;
+}
+
+.nhatnam-group-members{
+  position:absolute;
+  left:89%;
+  top:79%;
+}
+
+@media screen and (min-width:1150px) and (max-width:1440px){
+
+  .itp{
+    width:100%;
+    height:1750px;
+    border:none;
+    background-image:url('../images/kich-thuoc-1440x1150.png');
+    background-size:100%;
+    background-repeat:no-repeat;
+  }
+
+  .marketing-department{
+    position:absolute;
+    top:39%;
+    left:16%;
+  }
+  
+  .customers-service{
+    position:absolute;
+    top:39%;
+    left:69%;
+  }
+
+  .logo_nhatnam{
+    position:absolute;
+    top:57%;
+  }
+
+  .nhatnam_project{
+    position:absolute;
+    top:57%;
+  }
+
+  .logo_vset{
+    position:absolute;
+    top:57%;
+    left:31%;
+  }
+
+  .vset_project{
+    position:absolute;
+    top:57%;
+  }
+
+  .team7{
+    position:absolute;
+    top:77%;
+    left:4.5%;
+    font-size:25px;
+  }
+
+  .content-team7{
+    position:absolute;
+    top:84%;
+    left:7%;
+    font-size:24px;
+    font-weight:bold;
+  }
+  
+  .content-team7-members{
+    position:absolute;
+    top:90%;
+    left:7%;
+  }
+
+  .seo-team7{
+    position:absolute;
+    top:105%;
+    font-weight:bold;
+    left:7.2%;
+  }
+
+  .seo-team7-members{
+    position:absolute;
+    top:111%;
+    left:7.2%;
+  }
+
+  .ads-team7{
+    position:absolute;
+    top:117%;
+    left:7.2%;
+    font-weight:bold;
+  }
+
+  .ads-team7-members{
+    position:absolute;
+    top:125%;
+    left:7.2%;
+  }
+  
+  .team8{
+    position:absolute;
+    top:82%;
+    left:21.6%;
+    font-size:24px;
+  }
+  
+  .content-team8{
+    position:absolute;
+    top:89.2%;
+    left:24.2%;
+    font-size:21px;
+  }
+  
+  .content-team8-members{
+    position:absolute;
+    top:94%;
+  }
+
+  .design-team8{
+    position:absolute;
+    top:104.8%;
+    font-size:21px;
+    left:24.2%;
+  }
+  
+  .design-team8-members{
+    position:absolute;
+    top:109%;
+  }
+
+  .seo-team8{
+    position:absolute;
+    top:116%;
+    font-size:21px;
+    left:25%;
+  }
+
+  .seo-team8-members{
+    position:absolute;
+    top:122%;
+    font-size:21px;
+    left:25.5%;
+  }
+  
+  .ads-team8{
+    position:absolute;
+    top:128%;
+    font-size:21px;
+  }
+
+  .ads-team8-members{
+    position:absolute;
+    top:134%;
+    font-size:21px;
+  }
+
+  .team9{
+    position:absolute;
+    top:87%;
+    left:39%;
+    font-size:21px;
+  }
+
+  .team9-content{
+    position:absolute;
+    top:98%;
+    left:44%;
+    font-size:20px;
+  }
+
+  .team9-content-members{
+    position:absolute;
+    top:102%;
+  }
+  
+  p{
+    font-size:15px;
+  }
+
+  .team9-ads{
+    position:absolute;
+    top:98%;
+    left:55%;
+    font-size:21px;
+  }
+
+  .team9-ads-members{
+    position:absolute;
+    top:101.7%;
+    left:55%;
+  }
+
+  .team9-video{
+    position:absolute;
+    top:98%;
+    left:65%;
+    font-size:21px;
+  }
+
+  .team9-video-members{
+    position:absolute;
+    top:101.7%;
+    left:65%;
+  }
+
+  .team9-seo{
+    position:absolute;
+    top:98%;
+    left:75%;
+    font-size:21px;
+  }
+
+  .team9-seo-members{
+    position:absolute;
+    top:101.7%;
+    left:75%;
+  }
+
+  .team9-design{
+    position:absolute;
+    top:98%;
+    left:83%;
+    font-size:21px;
+  }
+
+  .team9-design-members{
+    position:absolute;
+    top:101.7%;
+    left:85%;
+  }
+
+  .logo-vset{
+    position:absolute;
+    top:53%;
+    left:67.2%;
+  }
+
+  .du-an-vset{
+    position:absolute;
+    top:53%;
+    left:58%;
+    font-size:20px;
+  }
+  
+  .vset-group-members{
+    position:absolute;
+    top:62%;
+  }
+
+  .logo-nhatnam{
+    position:absolute;
+    top:52.1%;
+    left:93%;
+  }
+
+  .nhatnam-group-members{
+    position:absolute;
+    top:62%;
+    left:87%;
+  }
+
+  .du-an-nhat-nam{
+    position:absolute;
+    top:53%;
+    left:80%;
+    font-size:20px;
+  }
+}
+
+@media screen and (min-width:1545px) and (max-width:1600px){
+
+  .itp{
+    width:100%;
+    height:1650px;
+    border:none;
+    background-image:url('../images/Kich-thuoc-1600x1545.png');
+    background-size:100%;
+    background-repeat:no-repeat;
+  }
+  
+  .marketing-department{
+    position:absolute;
+    top:77%;
+    left:17%;
+  }
+
+  .customers-service{
+    position:absolute;
+    top:77%;
+    left:70%;
+  }
+
+  .logo_nhatnam{
+    position:absolute;
+    top:97%;
+    left:4%;
+  }
+
+  .nhatnam_project{
+    position:absolute;
+    top:98%;
+    left:9%;
+  }
+  
+  .logo_vset{
+    position:absolute;
+    top:97%;
+    left:30%;
+  }
+  
+  .vset_project{
+    position:absolute;
+    top:98%;
+  }
+
+  .team7{
+    margin-top:12%;
+    margin-left:-1%;
+    font-size:20px;
+  }
+
+  .content-team7{
+    font-size:20px;
+    font-weight:bolder;
+    margin-left:-2%;
+  }
+  
+  .content-team7-members{
+    margin-top:11%;
+    margin-left:-1%;
+  }
+
+  .seo-team7{
+    font-size:20px;
+    margin-top:-1.4%;
+    margin-left:-1%;
+    font-weight:bolder;
+  }
+  
+  .seo-team7-members{
+    margin-top:-4%;
+    margin-left:0%;
+  }
+
+  .ads-team7{
+    font-size:20px;
+    margin-top:-3%;
+    font-weight:bolder;
+  }
+
+  .ads-team7-members{
+    margin-top:-5%;
+  }
+
+  .team8{
+    margin-top:12%;
+    margin-left:-1%;
+    font-size:20px;
+  }
+
+  .content-team8{
+    margin-top:0.7%;
+    margin-left:-2%;
+    font-size:20px;
+    font-weight:bolder;
+  }
+
+  .content-team8-members{
+    margin-top:-2%;
+    margin-left:-2%;
+  }
+  
+  .design-team8{
+    font-size:20px;
+    margin-top:-1.2%;
+    margin-left:-2%;
+    font-weight:bolder;
+  }
+
+  .design-team8-members{
+    margin-top:-4%;
+    margin-left:-2%;
+  }
+
+  .seo-team8{
+    margin-top:-2.4%;
+    margin-left:-2%;
+    font-size:20px;
+    font-weight:bolder;
+  }
+
+  .seo-team8-members{
+    margin-top:-6%;
+    margin-left:-2%;
+  }
+
+  .ads-team8{
+    margin-top:-4%;
+    font-size:20px;
+    margin-left:-2%;
+  }
+
+  .ads-team8-members{
+    margin-top:-6%;
+    margin-left:-2%;
+  }
+
+  .team9{
+    margin-top:12%;
+    margin-left:-1%;
+    font-size:20px;
+  }
+
+  .team9-content{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-1%;
+  }
+
+  .team9-content-members{
+    margin-top:-2%;
+  }
+
+  .team9-ads{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-1%;
+  }
+  
+  .team9-ads-members{
+    margin-top:-2%;
+    margin-left:-1%;
+  }
+
+  p{
+   font-size:17px;
+  }
+
+  .team9-video{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-1%;
+  }
+
+  .team9-video-members{
+    margin-top:-2%;
+    margin-left:-1%;
+  }
+  
+  .team9-seo{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-2%;
+  }
+
+  .team9-seo-members{
+    margin-top:-2%;
+    margin-left:-2%;
+  }
+
+  .team9-design{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-2%;
+  }
+
+  .team9-design-members{
+    margin-top:-2%;
+    margin-left:-2%;
+  }
+  
+  .logo-vset{
+    position:absolute;
+    top:93%;
+    left:67%;
+  }
+  
+  .du-an-vset{
+    position:absolute;
+    top:93%;
+    left:57%;
+    font-size:25px;
+  }
+
+  .vset-group-members{
+    margin-top:11%;
+  }
+
+  .logo-nhatnam{
+    position:absolute;
+    top:93%;
+    left:93%;
+  }
+
+  .du-an-nhat-nam{
+    font-size:25px;
+    position:absolute;
+    top:93%;
+    left:78%;
+  }
+  
+  .nhatnam-group-members{
+    margin-top:11%;
+    margin-left:-2%;
+  }
+}
+
+@media screen and (min-width:1545px) and (max-width:1600px){
+
+  .itp{
+    width:100%;
+    height:1650px;
+    border:none;
+    background-image:url('../images/Kich-thuoc-1600x1545.png');
+    background-size:100%;
+    background-repeat:no-repeat;
+  }
+  
+  .marketing-department{
+    position:absolute;
+    top:77%;
+    left:17%;
+  }
+
+  .customers-service{
+    position:absolute;
+    top:77%;
+    left:70%;
+  }
+
+  .logo_nhatnam{
+    position:absolute;
+    top:97%;
+    left:4%;
+  }
+
+  .nhatnam_project{
+    position:absolute;
+    top:98%;
+    left:9%;
+  }
+  
+  .logo_vset{
+    position:absolute;
+    top:97%;
+    left:30%;
+  }
+  
+  .vset_project{
+    position:absolute;
+    top:98%;
+  }
+
+  .team7{
+    margin-top:12%;
+    margin-left:-1%;
+    font-size:20px;
+  }
+
+  .content-team7{
+    font-size:20px;
+    font-weight:bolder;
+    margin-left:-2%;
+  }
+  
+  .content-team7-members{
+    margin-top:11%;
+    margin-left:-1%;
+  }
+
+  .seo-team7{
+    font-size:20px;
+    margin-top:-1.4%;
+    margin-left:-1%;
+    font-weight:bolder;
+  }
+  
+  .seo-team7-members{
+    margin-top:-4%;
+    margin-left:0%;
+  }
+
+  .ads-team7{
+    font-size:20px;
+    margin-top:-3%;
+    font-weight:bolder;
+  }
+
+  .ads-team7-members{
+    margin-top:-5%;
+  }
+
+  .team8{
+    margin-top:12%;
+    margin-left:-1%;
+    font-size:20px;
+  }
+
+  .content-team8{
+    margin-top:0.7%;
+    margin-left:-2%;
+    font-size:20px;
+    font-weight:bolder;
+  }
+
+  .content-team8-members{
+    margin-top:-2%;
+    margin-left:-2%;
+  }
+  
+  .design-team8{
+    font-size:20px;
+    margin-top:-1.2%;
+    margin-left:-2%;
+    font-weight:bolder;
+  }
+
+  .design-team8-members{
+    margin-top:-4%;
+    margin-left:-2%;
+  }
+
+  .seo-team8{
+    margin-top:-2.4%;
+    margin-left:-2%;
+    font-size:20px;
+    font-weight:bolder;
+  }
+
+  .seo-team8-members{
+    margin-top:-6%;
+    margin-left:-2%;
+  }
+
+  .ads-team8{
+    margin-top:-4%;
+    font-size:20px;
+    margin-left:-2%;
+  }
+
+  .ads-team8-members{
+    margin-top:-6%;
+    margin-left:-2%;
+  }
+
+  .team9{
+    margin-top:12%;
+    margin-left:-1%;
+    font-size:20px;
+  }
+
+  .team9-content{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-1%;
+  }
+
+  .team9-content-members{
+    margin-top:-2%;
+  }
+
+  .team9-ads{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-1%;
+  }
+  
+  .team9-ads-members{
+    margin-top:-2%;
+    margin-left:-1%;
+  }
+
+  p{
+   font-size:17px;
+  }
+
+  .team9-video{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-1%;
+  }
+
+  .team9-video-members{
+    margin-top:-2%;
+    margin-left:-1%;
+  }
+  
+  .team9-seo{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-2%;
+  }
+
+  .team9-seo-members{
+    margin-top:-2%;
+    margin-left:-2%;
+  }
+
+  .team9-design{
+    font-size:20px;
+    margin-top:-1%;
+    margin-left:-2%;
+  }
+
+  .team9-design-members{
+    margin-top:-2%;
+    margin-left:-2%;
+  }
+  
+  .logo-vset{
+    position:absolute;
+    top:93%;
+    left:67%;
+  }
+  
+  .du-an-vset{
+    position:absolute;
+    top:93%;
+    left:57%;
+    font-size:25px;
+  }
+
+  .vset-group-members{
+    margin-top:11%;
+  }
+
+  .logo-nhatnam{
+    position:absolute;
+    top:93%;
+    left:93%;
+  }
+
+  .du-an-nhat-nam{
+    font-size:25px;
+    position:absolute;
+    top:93%;
+    left:78%;
+  }
+  
+  .nhatnam-group-members{
+    margin-top:11%;
+    margin-left:-2%;
+  }
+}
+
+@media screen and (min-width:1025px) and (max-width:1280px){
+
+  .itp{
+    width:100%;
+    border:none;
+    background-image:url('../images/kich-thuoc-1280x1025.png');
+    background-repeat:no-repeat;
+    background-size:100%;
+  }
+
+  .marketing-department{
+    position:absolute;
+    top:30%;
+  }
+
+  .customers-service{
+    position:absolute;
+    top:30%;
+    left:67%;
+  }
+
+  .logo_nhatnam{
+    position:absolute;
+    top:44%;
+  }
+  
+  .nhatnam_project{
+    position:absolute;
+    top:44%;
+  }
+
+  .logo_vset{
+    position:absolute;
+    top:44%;
+  }
+
+  .vset_project{
+    position:absolute;
+    top:44%;
+  }
+
+  .team7{
+    position:absolute;
+    top:59%;
+    font-size:20px;
+  }
+  
+  .content-team7{
+    position:absolute;
+    top:65%;
+    font-size:20px;
+  }
+
+  .content-team7-members{
+    position:absolute;
+    top:70%;
+  }
+  
+  .seo-team7{
+    position:absolute;
+    top:81%;
+    font-size:20px;
+  }
+
+  .seo-team7-members{
+    position:absolute;
+    top:87%;
+  }
+
+  .ads-team7{
+    position:absolute;
+    top:90.9%;
+    font-size:20px;
+  }
+  
+  .ads-team7-members{
+    position:absolute;
+    top:97%;
+  }
+
+  .team8{
+    position:absolute;
+    top:63%;
+    font-size:20px;
+  }
+
+  .content-team8{
+    font-size:20px;
+    position:absolute;
+    top:69%;
+    left:24%;
+  }
+  
+  .content-team8-members{
+    position:absolute;
+    top:74%;
+  }
+  
+  .design-team8{
+    position:absolute;
+    top:80.7%;
+    font-size:20px;
+  }
+
+  .design-team8-members{
+    position:absolute;
+    top:86%;
+  }
+
+  .seo-team8{
+    position:absolute;
+    top:89%;
+  }
+
+  .seo-team8-members{
+    position:absolute;
+    top:95%;
+  }
+
+  .ads-team8{
+    position:absolute;
+    top:98.2%;
+  }
+
+  .ads-team8-members{
+    position:absolute;
+    top:104%;
+  }
+  
+  .team9{
+    position:absolute;
+    top:67%;
+    font-size:20px;
+  }
+
+  .team9-content{
+    position:absolute;
+    top:74%;
+  }
+
+  .team9-content-members{
+    position:absolute;
+    top:79%;
+  }
+
+  .team9-ads{
+    position:absolute;
+    top:74%;
+  }
+
+  .team9-ads-members{
+    position:absolute;
+    top:79%;
+  }
+
+  .team9-video{
+    position:absolute;
+    top:74%;
+  }
+
+  .team9-video-members{
+    position:absolute;
+    top:79%;
+  }
+
+  .team9-seo{
+    position:absolute;
+    top:74%;
+  }
+
+  .team9-seo-members{
+    position:absolute;
+    top:79%;
+  }
+
+  .team9-design{
+    position:absolute;
+    top:74%;
+  }
+
+  .team9-design-members{
+    position:absolute;
+    top:79%;
+  }
+
+  .logo-vset{
+    position:absolute;
+    top:41%;
+    left:68%;
+  }
+
+  .du-an-vset{
+    position:absolute;
+    top:41%;
+  }
+
+  .logo-nhatnam{
+    position:absolute;
+    top:41%;
+    left:93.2%;
+  }
+
+  .du-an-nhat-nam{
+    position:absolute;
+    top:41%;
+    left:78%;
+  }
+
+  .vset-group-members{
+    position:absolute;
+    top:47%;
+  }
+
+  .nhatnam-group-members{
+    position:absolute;
+    top:47%;
+  }
+}
