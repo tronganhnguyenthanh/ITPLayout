@@ -641,7 +641,7 @@ p{
   .vset_project{
     position:absolute;
     top:98%;
-    left:32%;
+    left:35.6% !important;
   }
 
   .team7{
@@ -803,7 +803,7 @@ p{
   .du-an-vset{
     position:absolute;
     top:93%;
-    left:55% !important;
+    left:52.2%;
     font-size:25px;
     text-align:right !important;
   } 
