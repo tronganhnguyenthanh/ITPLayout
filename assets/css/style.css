@@ -1262,7 +1262,7 @@ p{
 
   .team9-content-members{
     position:absolute;
-    top:79.2%;
+    top:78%;
     font-size:17px;
   }
 
@@ -1274,7 +1274,7 @@ p{
 
   .team9-ads-members{
     position:absolute;
-    top:79.2%;
+    top:78%;
     font-size:17px;
   }
 
@@ -1286,7 +1286,7 @@ p{
 
   .team9-video-members{
     position:absolute;
-    top:79.2%;
+    top:78%;
   }
 
   .team9-seo{
@@ -1296,7 +1296,7 @@ p{
 
   .team9-seo-members{
     position:absolute;
-    top:79.2%;
+    top:78%;
     font-size:17px;
   }
 
@@ -1308,7 +1308,7 @@ p{
 
   .team9-design-members{
     position:absolute;
-    top:79.2%;
+    top:78% !important;
   }
 
   .logo-vset{
@@ -1320,7 +1320,7 @@ p{
   .du-an-vset{
     position:absolute;
     top:39%;
-    left:56.3% !important;
+    left:57% !important;
     font-size:24px;
   }
 
@@ -1333,20 +1333,20 @@ p{
   .du-an-nhat-nam{
     position:absolute;
     top:39%;
-    left:76% !important;
+    left:78% !important;
     font-size:24px;
   }
 
   .vset-group-members{
     position:absolute;
-    top:47% !important;
+    top:46.2% !important;
     font-size:17px;
     text-align:right !important;
   }
 
   .nhatnam-group-members{
     position:absolute;
-    top:47%;
+    top:46.2% !important;
     left:85% !important;
     font-size:17px;
     text-align:right !important;
