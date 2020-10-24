@@ -345,7 +345,7 @@ p{
   .customers-service{
     position:absolute;
     top:37%;
-    left:69%;
+    left:68% !important;
     font-size:34px;
   }
 
@@ -496,7 +496,7 @@ p{
 
   .team9-content-members{
     position:absolute;
-    top:102%;
+    top:105%;
     font-size:18.5px;
   }
   
@@ -513,7 +513,7 @@ p{
 
   .team9-ads-members{
     position:absolute;
-    top:101.7%;
+    top:105%;
     left:56%;
   }
 
@@ -526,7 +526,7 @@ p{
 
   .team9-video-members{
     position:absolute;
-    top:101.7%;
+    top:105%;
     left:65%;
     font-size:18.5px;
   }
@@ -540,7 +540,7 @@ p{
 
   .team9-seo-members{
     position:absolute;
-    top:101.7%;
+    top:105%;
     left:75%;
     font-size:18.5px;
   }
@@ -554,7 +554,7 @@ p{
 
   .team9-design-members{
     position:absolute;
-    top:101.7%;
+    top:105%;
     left:85%;
   }
 
@@ -1252,7 +1252,7 @@ p{
 
   .team9-content-members{
     position:absolute;
-    top:78%;
+    top:79.2%;
     font-size:17px;
   }
 
@@ -1264,7 +1264,7 @@ p{
 
   .team9-ads-members{
     position:absolute;
-    top:78%;
+    top:79.2%;
     font-size:17px;
   }
 
@@ -1276,7 +1276,7 @@ p{
 
   .team9-video-members{
     position:absolute;
-    top:78%;
+    top:79.2%;
   }
 
   .team9-seo{
@@ -1286,7 +1286,7 @@ p{
 
   .team9-seo-members{
     position:absolute;
-    top:78%;
+    top:79.2%;
     font-size:17px;
   }
 
@@ -1298,7 +1298,7 @@ p{
 
   .team9-design-members{
     position:absolute;
-    top:78%;
+    top:79.2%;
   }
 
   .logo-vset{
@@ -1310,6 +1310,7 @@ p{
   .du-an-vset{
     position:absolute;
     top:39%;
+    left:56.3% !important;
     font-size:24px;
   }
 
@@ -1322,19 +1323,22 @@ p{
   .du-an-nhat-nam{
     position:absolute;
     top:39%;
-    left:78%;
+    left:76% !important;
     font-size:24px;
   }
 
   .vset-group-members{
     position:absolute;
-    top:46%;
+    top:47% !important;
     font-size:17px;
+    text-align:right !important;
   }
 
   .nhatnam-group-members{
     position:absolute;
-    top:46%;
+    top:47%;
+    left:85% !important;
     font-size:17px;
+    text-align:right !important;
   }
 }
