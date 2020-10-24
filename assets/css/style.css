@@ -1,6 +1,7 @@
 body{
   font-family: 'Source Sans Pro', sans-serif;
   font-weight:bold;
+  padding:0;
 }
 
 .col-12{
@@ -11,7 +12,7 @@ body{
 .itp{
   width:100%;
   height:1605px;
-  border:1px solid lightgray;
+  border:none;
   background-image:url('../images/kich-thuoc-1920x1620.png');
 }
 
