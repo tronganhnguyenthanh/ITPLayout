@@ -313,13 +313,15 @@ p{
   left:62%;
   top:79%;
   font-size:25px;
+  text-align:right;
 }
 
 .nhatnam-group-members{
   position:absolute;
-  left:89%;
+  left:87%;
   top:79%;
   font-size:25px;
+  text-align:right;
 }
 
 @media screen and (min-width:1150px) and (max-width:1440px){
@@ -803,7 +805,8 @@ p{
     top:93%;
     left:55% !important;
     font-size:25px;
-  }
+    text-align:right !important;
+  } 
 
   .vset-group-members{
     margin-top:11%;
@@ -1054,7 +1057,7 @@ p{
   .du-an-vset{
     position:absolute;
     top:90.5%;
-    left:57%;
+    left:55%;
     font-size:30px;
   }
 
