@@ -607,15 +607,15 @@ p{
   
   .marketing-department{
     position:absolute;
-    top:77%;
-    left:17%;
+    top:70%;
+    left:14% !important;
     font-size:40px;
   }
 
   .customers-service{
     position:absolute;
     top:77%;
-    left:70%;
+    left:66% !important;
   }
 
   .logo_nhatnam{
@@ -639,6 +639,7 @@ p{
   .vset_project{
     position:absolute;
     top:98%;
+    left:32%;
   }
 
   .team7{
@@ -679,7 +680,7 @@ p{
 
   .team8{
     margin-top:12%;
-    margin-left:-1%;
+    margin-left:-1.6% !important;
     font-size:20px;
   }
 
@@ -729,7 +730,7 @@ p{
 
   .team9{
     margin-top:12%;
-    margin-left:-1%;
+    margin-left:-1.7% !important;
     font-size:20px;
   }
 
@@ -800,7 +801,7 @@ p{
   .du-an-vset{
     position:absolute;
     top:93%;
-    left:57%;
+    left:55% !important;
     font-size:25px;
   }
 
@@ -818,7 +819,7 @@ p{
     font-size:25px;
     position:absolute;
     top:93%;
-    left:78%;
+    left:75% !important;
   }
   
   .nhatnam-group-members{
