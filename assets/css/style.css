@@ -535,7 +535,7 @@ p{
 
   .team9{
     position:absolute;
-    top:85%;
+    top:86%;
     left:39%;
     font-size:24.5px;
     font-family: 'Source Sans Pro', sans-serif;
@@ -565,7 +565,6 @@ p{
     top:97%;
     left:55.9%;
     font-size:18.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-ads-members{
@@ -579,7 +578,6 @@ p{
     top:97%;
     left:65%;
     font-size:18.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-video-members{
@@ -587,7 +585,6 @@ p{
     top:101.7%;
     left:65%;
     font-size:18.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-seo{
@@ -595,7 +592,6 @@ p{
     top:97%;
     left:75%;
     font-size:18.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-seo-members{
@@ -603,7 +599,6 @@ p{
     top:101.7%;
     left:75%;
     font-size:18.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-design{
@@ -611,7 +606,6 @@ p{
     top:97%;
     left:84%;
     font-size:18.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .team9-design-members{
@@ -631,13 +625,11 @@ p{
     top:51%;
     left:58%;
     font-size:24.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
   
   .vset-group-members{
     position:absolute;
     top:62%;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 
   .logo-nhatnam{
@@ -657,7 +649,6 @@ p{
     top:51%;
     left:79%;
     font-size:24.5px;
-    font-family: 'Source Sans Pro', sans-serif;
   }
 }
 
