@@ -565,7 +565,7 @@ p{
   .du-an-vset{
     position:absolute;
     top:51%;
-    left:58%;
+    left:57% !important;
     font-size:24.5px;
   }
   
@@ -589,7 +589,7 @@ p{
   .du-an-nhat-nam{
     position:absolute;
     top:51%;
-    left:79%;
+    left:77% !important;
     font-size:24.5px;
   }
 }
