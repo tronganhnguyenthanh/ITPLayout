@@ -37,7 +37,7 @@ body{
 .logo_nhatnam{
   width:3%;
   position:absolute;
-  top:75%;
+  top:74.8%;
   left:5.5%;
 }
 
@@ -88,6 +88,14 @@ p{
  font-size:20px;
  text-transform:uppercase;
  color:#fff;
+}
+
+.member1{
+  margin-top:30px;
+}
+
+.member2{
+  margin-top:-12px;
 }
 
 .content-team7-members{
@@ -212,6 +220,7 @@ p{
   top:1102px;
   left:45.8%;
   font-size:25px;
+  height: auto;
 }
 
 .team9-content-members{
@@ -220,6 +229,10 @@ p{
   left:46%;
   font-size:25px;
   text-align:center;
+}
+
+.members{
+  padding-top:-1px;
 }
 
 .team9-ads{
@@ -1089,7 +1102,7 @@ p{
     font-size:30px;
     position:absolute;
     top:90%;
-    left:78%;
+    left:78% ;
   }
   
   .nhatnam-group-members{
@@ -1265,6 +1278,14 @@ p{
     position:absolute;
     top:78%;
     font-size:17px;
+  }
+
+  .member1{
+    margin-top:30px;
+  }
+  
+  .member2{
+    margin-top:-10px;
   }
 
   .team9-ads{
