@@ -79,9 +79,9 @@ body{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:970px;
-  left:7.3%;
-  font-size:25px;
+  top:940px;
+  left:6.3%;
+  font-size:39px;
 }
 
 p{
@@ -109,9 +109,9 @@ p{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:1189px;
+  top:1162px;
   left:7.4%;
-  font-size:25px;
+  font-size:39px;
 }
 
 .seo-team7-members{
@@ -125,9 +125,9 @@ p{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:1319px;
+  top:1290px;
   left:7.4%;
-  font-size:25px;
+  font-size:39px;
 }
 
 .ads-team7-members{
@@ -152,9 +152,9 @@ p{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:1023px;
-  left:24.5%;
-  font-size:25px;
+  top:990px;
+  left:23.5%;
+  font-size:39px;
 }
 
 .content-team8-members{
@@ -360,167 +360,167 @@ p{
   }
 
   .marketing-department{
-    position:absolute;
+    /* position:absolute; */
     top:38%;
     left:16%;
     font-size:34px;
   }
   
   .customers-service{
-    position:absolute;
+    /* position:absolute; */
     top:37%;
     left:68% !important;
     font-size:34px;
   }
 
   .logo_nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:57.4%;
     left:4.6%;
   }
 
   .nhatnam_project{
-    position:absolute;
+    /* position:absolute; */
     top:55%;
     font-size:27px;
   }
 
   .logo_vset{
-    position:absolute;
+    /* position:absolute; */
     top:57.6%;
     left:31.2%;
   }
 
   .vset_project{
-    position:absolute;
+    /* position:absolute; */
     top:55%;
     left:36.2%;
     font-size:27px;
   }
 
   .team7{
-    position:absolute;
+    /* position:absolute; */
     top:75%;
     left:4.4%;
     font-size:24.5px;
   }
 
   .content-team7{
-    position:absolute;
+    /* position:absolute; */
     top:83.4%;
     left:7%;
     font-size:24.5px;
   }
   
   .content-team7-members{
-    position:absolute;
+    /* position:absolute; */
     top:91%;
     left:7.2%;
     font-size:18.5px;
   }
 
   .seo-team7{
-    position:absolute;
+    /* position:absolute; */
     top:105%;
     font-size:24.5px;
     left:7.2%;
   }
 
   .seo-team7-members{
-    position:absolute;
+    /* position:absolute; */
     top:113%;
     left:7.3%;
     font-size:18.5px;
   }
 
   .ads-team7{
-    position:absolute;
+    /* position:absolute; */
     top:117%;
     left:7.2%;
   }
 
   .ads-team7-members{
-    position:absolute;
+    /* position:absolute; */
     top:126%;
     left:7.3%;
     font-size:18.5px;
   }
   
   .team8{
-    position:absolute;
+    /* position:absolute; */
     top:80%;
     left:21.6%;
     font-size:24.5px;
   }
   
   .content-team8{
-    position:absolute;
+    /* position:absolute; */
     top:88.2%;
     left:24.2%;
     font-size:24.5px;
   }
   
   .content-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:95.6%;
     font-size:18.5px;
   }
 
   .design-team8{
-    position:absolute;
+    /* position:absolute; */
     top:104.2%;
     font-size:24.5px;
     left:24.2%;
   }
   
   .design-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:112%;
     font-size:24.5px;
   }
 
   .seo-team8{
-    position:absolute;
+    /* position:absolute; */
     top:115.4%;
     font-size:24.5px;
     left:25%;
   }
 
   .seo-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:123%;
     font-size:18.5px;
     left:25.5%;
   }
   
   .ads-team8{
-    position:absolute;
+    /* position:absolute; */
     top:127.5%;
     font-size:24.5px;
   }
 
   .ads-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:135%;
     font-size:18.5px;
   }
 
   .team9{
-    position:absolute;
+    /* position:absolute; */
     top:86%;
     left:39%;
     font-size:24.5px;
   }
 
   .team9-content{
-    position:absolute;
+    /* position:absolute; */
     top:97%;
     left:45%;
     font-size:18.5px;
   }
 
   .team9-content-members{
-    position:absolute;
+    /* position:absolute; */
     top:104%;
     font-size:18.5px;
   }
@@ -530,92 +530,92 @@ p{
   }
 
   .team9-ads{
-    position:absolute;
+    /* position:absolute; */
     top:97%;
     left:55.9%;
     font-size:18.5px;
   }
 
   .team9-ads-members{
-    position:absolute;
+    /* position:absolute; */
     top:104%;
     left:56%;
   }
 
   .team9-video{
-    position:absolute;
+    /* position:absolute; */
     top:97%;
     left:65%;
     font-size:18.5px;
   }
 
   .team9-video-members{
-    position:absolute;
+    /* position:absolute; */
     top:104%;
     left:65%;
     font-size:18.5px;
   }
 
   .team9-seo{
-    position:absolute;
+    /* position:absolute; */
     top:97%;
     left:75%;
     font-size:18.5px;
   }
 
   .team9-seo-members{
-    position:absolute;
+    /* position:absolute; */
     top:104%;
     left:75%;
     font-size:18.5px;
   }
 
   .team9-design{
-    position:absolute;
+    /* position:absolute; */
     top:97%;
     left:84%;
     font-size:18.5px;
   }
 
   .team9-design-members{
-    position:absolute;
+    /* position:absolute; */
     top:104% !important;
     left:85%;
   }
 
   .logo-vset{
     width:3.7%;
-    position:absolute;
+    /* position:absolute; */
     top:53.5%;
     left:68.4%;
   }
 
   .du-an-vset{
-    position:absolute;
+    /* position:absolute; */
     top:51%;
     left:58% !important;
     font-size:24.5px;
   }
   
   .vset-group-members{
-    position:absolute;
+    /* position:absolute; */
     top:62%;
   }
 
   .logo-nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:53%;
     left:93.9%;
   }
 
   .nhatnam-group-members{
-    position:absolute;
+    /* position:absolute; */
     top:62%;
     left:87%;
   }
 
   .du-an-nhat-nam{
-    position:absolute;
+    /* position:absolute; */
     top:51%;
     left:79% !important;
     font-size:24.5px;
@@ -634,26 +634,26 @@ p{
   }
   
   .marketing-department{
-    position:absolute;
+    /* position:absolute; */
     top:70%;
     left:14% !important;
     font-size:40px;
   }
 
   .customers-service{
-    position:absolute;
+    /* position:absolute; */
     top:77%;
     left:66% !important;
   }
 
   .logo_nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:98% !important;
     left:3.6% !important;
   }
 
   .nhatnam_project{
-    position:absolute;
+    /* position:absolute; */
     top:98%;
     left:7%;
   }
@@ -665,7 +665,7 @@ p{
   }
   
   .vset_project{
-    position:absolute;
+    /* position:absolute; */
     top:98%;
     left:35.6% !important;
   }
@@ -828,7 +828,7 @@ p{
   }
   
   .du-an-vset{
-    position:absolute;
+    /* position:absolute; */
     top:93%;
     left:56% !important;
     font-size:25px;
@@ -840,14 +840,14 @@ p{
   }
 
   .logo-nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:93.5% !important;
     left:100% !important;
   }
 
   .du-an-nhat-nam{
     font-size:25px;
-    position:absolute;
+    /* position:absolute; */
     top:93%;
     left:78% !important;
   }
@@ -870,40 +870,40 @@ p{
   }
   
   .marketing-department{
-    position:absolute;
+    /* position:absolute; */
     top:76%;
     left:15% !important;
     font-size:40px;
   }
 
   .customers-service{
-    position:absolute;
+    /* position:absolute; */
     top:75% ;
     left:69% !important;
     font-size:40px;
   }
 
   .logo_nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:99%;
     left:4.4%;
   }
 
   .nhatnam_project{
-    position:absolute;
+    /* position:absolute; */
     top:95.2%;
     left:9%;
     font-size:30px;
   }
   
   .logo_vset{
-    position:absolute;
+    /* position:absolute; */
     top:99.4% !important;
     left:31%;
   }
   
   .vset_project{
-    position:absolute;
+    /* position:absolute; */
     top:95%;
     left:36%;
     font-size:30px;
@@ -1076,13 +1076,13 @@ p{
   
   .logo-vset{
     width:3%;
-    position:absolute;
+    /* position:absolute; */
     top:94.8% !important;
     left:68%;
   }
   
   .du-an-vset{
-    position:absolute;
+    /* position:absolute; */
     top:90.5%;
     left:55%;
     font-size:30px;
@@ -1094,7 +1094,7 @@ p{
   }
 
   .logo-nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:94%;
     left:93.6% !important;
     font-size:30px;
@@ -1102,7 +1102,7 @@ p{
 
   .du-an-nhat-nam{
     font-size:30px;
-    position:absolute;
+    /* position:absolute; */
     top:90%;
     left:78% ;
   }
@@ -1127,87 +1127,87 @@ p{
 
   .marketing-department{
     font-size:30px;
-    position:absolute;
+    /* position:absolute; */
     top:30%;
   }
 
   .customers-service{
     font-size:30px;
-    position:absolute;
+    /* position:absolute; */
     top:29%;
     left:69%;
   }
 
   .logo_nhatnam{
     width:3.5%;
-    position:absolute;
+    /* position:absolute; */
     top:44.4%;
     left:4.4%;
   }
   
   .nhatnam_project{
-    position:absolute;
+    /* position:absolute; */
     top:42.3%;
     font-size:24px;
   }
 
   .logo_vset{
-    position:absolute;
+    /* position:absolute; */
     top:44.5%;
     left:31.2%;
   }
 
   .vset_project{
-    position:absolute;
+    /* position:absolute; */
     top:42%;
     font-size:24px;
   }
 
   .team7{
-    position:absolute;
+    /* position:absolute; */
     top:58%;
     left:4%;
     font-size:22px;
   }
   
   .content-team7{
-    position:absolute;
+    /* position:absolute; */
     top:64.3%;
     left:6.6%;
     font-size:22px;
   }
 
   .content-team7-members{
-    position:absolute;
+    /* position:absolute; */
     top:70%;
     font-size:17px;
   }
   
   .seo-team7{
-    position:absolute;
+    /* position:absolute; */
     top:80.6%;
     font-size:22px;
   }
 
   .seo-team7-members{
-    position:absolute;
+    /* position:absolute; */
     top:87%;
     font-size:17px;
   }
 
   .ads-team7{
-    position:absolute;
+    /* position:absolute; */
     top:90.9%;
     font-size:20px;
   }
   
   .ads-team7-members{
-    position:absolute;
+    /* position:absolute; */
     top:97%;
   }
 
   .team8{
-    position:absolute;
+    /* position:absolute; */
     top:62%;
     left:21.3%;
     font-size:22px;
@@ -1215,74 +1215,74 @@ p{
 
   .content-team8{
     font-size:22px;
-    position:absolute;
+    /* position:absolute; */
     top:67.9%;
     left:24%;
   }
   
   .content-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:73%;
     left:24%;
     font-size:17px;
   }
   
   .design-team8{
-    position:absolute;
+    /* position:absolute; */
     top:80.4%;
     font-size:22px;
   }
 
   .design-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:86%;
     left:24%;
     font-size:17px;
   }
 
   .seo-team8{
-    position:absolute;
+    /* position:absolute; */
     top:89%;
     left:24%;
     font-size:22px;
   }
 
   .seo-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:95%;
     left:24.2%;
     font-size:17px;
   }
 
   .ads-team8{
-    position:absolute;
+    /* position:absolute; */
     top:98.2%;
     left:24%;
     font-size:22px;
   }
 
   .ads-team8-members{
-    position:absolute;
+    /* position:absolute; */
     top:104%;
     left:24%;
     font-size:17px;
   }
   
   .team9{
-    position:absolute;
+    /* position:absolute; */
     top:66%;
     left:39.1%;
     font-size:22px;
   }
 
   .team9-content{
-    position:absolute;
+    /* position:absolute; */
     top:74%;
     font-size:17px;
   }
 
   .team9-content-members{
-    position:absolute;
+    /* position:absolute; */
     top:78%;
     font-size:17px;
   }
@@ -1296,85 +1296,85 @@ p{
   }
 
   .team9-ads{
-    position:absolute;
+    /* position:absolute; */
     top:74%;
     font-size:17px;
   }
 
   .team9-ads-members{
-    position:absolute;
+    /* position:absolute; */
     top:78%;
     font-size:17px;
   }
 
   .team9-video{
-    position:absolute;
+    /* position:absolute; */
     top:74%;
     font-size:17px;
   }
 
   .team9-video-members{
-    position:absolute;
+    /* position:absolute; */
     top:78%;
   }
 
   .team9-seo{
-    position:absolute;
+    /* position:absolute; */
     top:74%;
   }
 
   .team9-seo-members{
-    position:absolute;
+    /* position:absolute; */
     top:78%;
     font-size:17px;
   }
 
   .team9-design{
-    position:absolute;
+    /* position:absolute; */
     top:74%;
     font-size:17px;
   }
 
   .team9-design-members{
-    position:absolute;
+    /* position:absolute; */
     top:78% !important;
   }
 
   .logo-vset{
-    position:absolute;
+    /* position:absolute; */
     top:41.4%;
     left:68.7%;
   }
 
   .du-an-vset{
-    position:absolute;
+    /* position:absolute; */
     top:39%;
     left:57% !important;
     font-size:24px;
   }
 
   .logo-nhatnam{
-    position:absolute;
+    /* position:absolute; */
     top:41.2%;
     left:94.5%;
   }
 
   .du-an-nhat-nam{
-    position:absolute;
+    /* position:absolute; */
     top:39%;
     left:79.2% !important;
     font-size:24px;
   }
 
   .vset-group-members{
-    position:absolute;
+    /* position:absolute; */
     top:46.2% !important;
     font-size:17px;
     text-align:right !important;
   }
 
   .nhatnam-group-members{
-    position:absolute;
+    /* position:absolute; */
     top:46.2% !important;
     left:85% !important;
     font-size:17px;
