@@ -655,7 +655,7 @@ p{
   .nhatnam_project{
     position:absolute;
     top:98%;
-    left:9%;
+    left:7%;
   }
   
   .logo_vset{
@@ -1141,8 +1141,8 @@ p{
   .logo_nhatnam{
     width:3.5%;
     position:absolute;
-    top:45%;
-    left:5.1%;
+    top:44.4%;
+    left:4.4%;
   }
   
   .nhatnam_project{
@@ -1153,8 +1153,8 @@ p{
 
   .logo_vset{
     position:absolute;
-    top:45%;
-    left:31.7%;
+    top:44.5%;
+    left:31.2%;
   }
 
   .vset_project{
@@ -1166,12 +1166,14 @@ p{
   .team7{
     position:absolute;
     top:58%;
+    left:4%;
     font-size:22px;
   }
   
   .content-team7{
     position:absolute;
     top:64.3%;
+    left:6.6%;
     font-size:22px;
   }
 
@@ -1207,6 +1209,7 @@ p{
   .team8{
     position:absolute;
     top:62%;
+    left:21.3%;
     font-size:22px;
   }
 
@@ -1268,6 +1271,7 @@ p{
   .team9{
     position:absolute;
     top:66%;
+    left:39.1%;
     font-size:22px;
   }
 
@@ -1338,7 +1342,7 @@ p{
 
   .logo-vset{
     position:absolute;
-    top:42%;
+    top:41.4%;
     left:68.7%;
   }
 
@@ -1351,14 +1355,14 @@ p{
 
   .logo-nhatnam{
     position:absolute;
-    top:42%;
-    left:94.2%;
+    top:41.2%;
+    left:94.5%;
   }
 
   .du-an-nhat-nam{
     position:absolute;
     top:39%;
-    left:78% !important;
+    left:79.2% !important;
     font-size:24px;
   }
 
