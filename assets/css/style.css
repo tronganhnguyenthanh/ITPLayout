@@ -1055,9 +1055,9 @@ p{
   }
 
   .team9-ads{
-    font-size:21px;
-    margin-top:-0.5%;
-    margin-left:-1.2%;
+    font-size:27px;
+    margin-top:1% !important;
+    margin-left:-1.5% !important;
   }
   
   .team9-ads-members{
@@ -1071,8 +1071,8 @@ p{
   }
 
   .team9-video{
-    font-size:21px;
-    margin-top:-0.5%;
+    font-size:27px !important;
+    margin-top:1% !important;
     margin-left:-1.2%;
   }
 
@@ -1083,9 +1083,9 @@ p{
   }
   
   .team9-seo{
-    font-size:21px;
-    margin-top:-0.5%;
-    margin-left:-2%;
+    font-size:27px !important;
+    margin-top:1% !important;
+    margin-left:-1.4%;
   }
 
   .team9-seo-members{
@@ -1095,9 +1095,9 @@ p{
   }
 
   .team9-design{
-    font-size:21px;
-    margin-top:-0.5%;
-    margin-left:-2%;
+    font-size:27px !important;
+    margin-top:1% !important;
+    margin-left:-1.4%;
   }
 
   .team9-design-members{
