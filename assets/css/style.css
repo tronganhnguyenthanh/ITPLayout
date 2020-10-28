@@ -1327,7 +1327,8 @@ p{
   .team9-content{
     /* position:absolute; */
     top:74%;
-    font-size:17px;
+    left:44.4%;
+    font-size:20px !important;
   }
 
   .team9-content-members{
@@ -1347,7 +1348,7 @@ p{
   .team9-ads{
     /* position:absolute; */
     top:74%;
-    font-size:17px;
+    font-size:20px !important;
   }
 
   .team9-ads-members{
@@ -1359,7 +1360,7 @@ p{
   .team9-video{
     /* position:absolute; */
     top:74%;
-    font-size:17px;
+    font-size:20px !important;
   }
 
   .team9-video-members{
@@ -1370,6 +1371,7 @@ p{
   .team9-seo{
     /* position:absolute; */
     top:74%;
+    font-size:20px !important;
   }
 
   .team9-seo-members{
@@ -1381,7 +1383,7 @@ p{
   .team9-design{
     /* position:absolute; */
     top:74%;
-    font-size:17px;
+    font-size:20px !important;
   }
 
   .team9-design-members{
@@ -1428,5 +1430,21 @@ p{
     left:85% !important;
     font-size:17px;
     text-align:right !important;
+  }
+
+  .first-member{
+    margin-top:30% !important;
+  }
+
+  .second-member{
+    margin-top:-7% !important;
+  }
+
+  .third-member{
+    margin-top:-8% !important;
+  }
+  
+  .fourth-member{
+    margin-top:-8% !important;
   }
 }
