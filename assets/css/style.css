@@ -670,7 +670,7 @@ p{
   .nhatnam_project{
     /* position:absolute; */
     top:98%;
-    left:7%;
+    left:8.5% !important;
   }
   
   .logo_vset{
@@ -682,7 +682,7 @@ p{
   .vset_project{
     /* position:absolute; */
     top:98%;
-    left:35.6% !important;
+    left:35.4% !important;
   }
 
   .team7{
@@ -692,9 +692,9 @@ p{
   }
 
   .content-team7{
-    font-size:20px;
+    font-size:30px !important;
     margin-left:-2%;
-    margin-top:1.9% !important;
+    margin-top:3.1% !important;
   }
   
   .content-team7-members{
@@ -703,8 +703,8 @@ p{
   }
 
   .seo-team7{
-    font-size:20px;
-    margin-top:-0.4% !important;
+    font-size:30px !important;
+    margin-top:0.5% !important;
     margin-left:-1%;
   }
   
@@ -714,8 +714,8 @@ p{
   }
 
   .ads-team7{
-    font-size:20px;
-    margin-top:-2% !important;
+    font-size:30px !important;
+    margin-top:-0.8% !important;
   }
 
   .ads-team7-members{
@@ -729,9 +729,9 @@ p{
   }
 
   .content-team8{
-    margin-top:1% !important;
+    margin-top:2.5% !important;
     margin-left:-2%;
-    font-size:20px;
+    font-size:30px !important;
   }
 
   .content-team8-members{
@@ -740,8 +740,8 @@ p{
   }
   
   .design-team8{
-    font-size:20px;
-    margin-top:-0.5% !important;
+    font-size:30px !important;
+    margin-top:0.7% !important;
     margin-left:-2%;
   }
 
@@ -751,9 +751,9 @@ p{
   }
 
   .seo-team8{
-    margin-top:-2% !important;
+    margin-top:-0.6% !important;
     margin-left:-2%;
-    font-size:20px;
+    font-size:30px !important;
   }
 
   .seo-team8-members{
@@ -762,8 +762,8 @@ p{
   }
 
   .ads-team8{
-    margin-top:-3.2% !important;
-    font-size:20px;
+    margin-top:-2% !important;
+    font-size:30px !important;
     margin-left:-2%;
   }
 
@@ -1027,8 +1027,8 @@ p{
   }
 
   .team9-content{
-    font-size:21px;
-    margin-top:-0.5%;
+    font-size:27px;
+    margin-top:0.7% !important;
     margin-left:-1.2%;
   }
 
@@ -1127,6 +1127,23 @@ p{
     margin-left:-2%;
     font-size:30px;
   }
+
+  .first-member{
+    margin-top:27% !important;
+  }
+
+  .second-member{
+    margin-top:-5% !important;
+  }
+
+  .third-member{
+    margin-top:-5% !important;
+  }
+  
+  .fourth-member{
+    margin-top:-7% !important;
+  }
+
 }
 
 @media screen and (min-width:1025px) and (max-width:1280px){
