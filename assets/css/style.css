@@ -1,3 +1,8 @@
+html{
+ overflow-x:hidden;
+ overflow-y:scroll;
+}
+
 body{
   font-family: 'Source Sans Pro', sans-serif;
   font-weight:bold;
@@ -20,8 +25,8 @@ body{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  left:18% !important;
-  top:52%;
+  left:17% !important;
+  top:50% !important;
   font-size:45px;
 }
 
@@ -30,15 +35,17 @@ body{
   color:#fff;
   position:absolute;
   left:70% !important;
-  top:50.4%;
+  top:49% !important;
   font-size:45px;
 }
 
 .logo_nhatnam{
   width:3.7%;
-  position:absolute;
-  top:73%;
-  left:4.7%;
+  /* position:absolute;
+  top:70% !important;
+  left:4.7%; */
+  margin-top:35.9%;
+  margin-left:4.7%;
 }
 
 .nhatnam_project{
@@ -47,15 +54,14 @@ body{
   color:#fff;
   position:absolute;
   left:9.5%;
-  top:70.3%;
+  top:68% !important;
 }
 
 .logo_vset{
-  width:3.7%;
-  position:absolute;
-  top:73.6%;
-  left:31.6%;  
-}
+  width:4.1% !important;
+  margin-left:31.4% !important;
+  margin-top:-1% !important;
+} 
 
 .vset_project{
   text-transform:uppercase;
@@ -63,7 +69,7 @@ body{
   color:#fff;
   position:absolute;
   left:36.5%;
-  top:70%;
+  top:-64% !important;
 }
 
 .team7{
@@ -71,7 +77,7 @@ body{
   color:#fff;
   font-size:32px;
   position:absolute;
-  top:94%;
+  top:90%;
   left:4.5%;
 }
 
@@ -79,9 +85,9 @@ body{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:940px;
-  left:6.3%;
-  font-size:39px;
+  top:955px;
+  left:7%;
+  font-size:32px;
 }
 
 p{
@@ -116,7 +122,7 @@ p{
 
 .content-team7-members{
   position:absolute;
-  top:112%;
+  top:107%;
   left:7.5%;
   font-size:25px;
 }
@@ -125,9 +131,9 @@ p{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:1162px;
+  top:1175px;
   left:7.4%;
-  font-size:39px;
+  font-size:32px;
 }
 
 .seo-team7-members{
@@ -141,9 +147,9 @@ p{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:1290px;
+  top:1305px;
   left:7.4%;
-  font-size:39px;
+  font-size:32px;
 }
 
 .ads-team7-members{
@@ -160,7 +166,7 @@ p{
   color:#fff;
   font-size:32px;
   position:absolute;
-  top:99%;
+  top:95%;
   left:22%;
 }
 
@@ -168,23 +174,23 @@ p{
   text-transform:uppercase;
   color:#fff;
   position:absolute;
-  top:990px;
-  left:23.5%;
-  font-size:39px;
+  top:1008px;
+  left:24.4%;
+  font-size:32px;
 }
 
 .content-team8-members{
   position:absolute;
-  top:1095px;
+  top:1080px;
   left:24.7%;
   font-size:25px;
 }
 
 .design-team8{
   position:absolute;
-  top:1154px;
+  top:1170px;
   left:24.7%;
-  font-size:39px;
+  font-size:32px;
 }
 
 .design-team8-members{
@@ -196,9 +202,9 @@ p{
 
 .seo-team8{
   position:absolute;
-  top:1270px;
+  top:1284px;
   left:24.7%;
-  font-size:39px;
+  font-size:32px;
 }
 
 .seo-team8-members{
@@ -210,9 +216,9 @@ p{
 
 .ads-team8{
   position:absolute;
-  top:1395px;
+  top:1405px;
   left:25%;
-  font-size:39px;
+  font-size:32px;
 }
 
 .ads-team8-members{
@@ -227,7 +233,7 @@ p{
   color:#fff;
   font-size:32px;
   position:absolute;
-  top:105%;
+  top:100%;
   left:39.6%;
 }
 
@@ -311,56 +317,114 @@ p{
   text-align:center;
 }
 
-.logo-vset{
-  width:3.7%;
-  position:absolute;
-  left:69.3%;
-  top:69.1%;
-}
-
 .vset-group{
   font-size:25px;
   text-transform:uppercase;
   color:#fff;
+  position:relative;
+  top:-3.8%;
+  left:0;
+}
+
+.vset-logo{
+  width:4%;
+  position:absolute;
+  top:66.2% !important;
+  left:69.2% !important;
 }
 
 .du-an-vset{
   position:absolute;
-  left:57.7%;
-  top:66%;
-  font-size:36px;
-}
-
-.logo-nhatnam{
-  width:3.7%;
-  position:absolute;
-  left:95.2%;
-  top:68.5%;
-}
-
-.du-an-nhat-nam{
-  position:absolute;
-  left:79.5%;
-  top:66%;
-  text-transform:uppercase;
-  font-size:36px;
+  top:64.5% !important;
+  left:59.5% !important;
   color:#fff;
+  text-transform:uppercase;
+  font-size:30px !important;
 }
 
-.vset-group-members{
+.vset-members{
   position:absolute;
-  left:62%;
-  top:79%;
-  font-size:25px;
-  text-align:right;
+  top:76.5% !important;
+  left:63% !important;
 }
 
-.nhatnam-group-members{
+.nhatnam-logo{
+  width:3.7% !important;
   position:absolute;
-  left:87%;
-  top:79%;
-  font-size:25px;
-  text-align:right;
+  top:66.2% !important;
+  left:95.2% !important;
+}
+
+.du-an-nhatnam{
+  position:absolute;
+  top:64.5% !important;
+  left:81.7% !important;
+  color:#fff;
+  text-transform:uppercase;
+  font-size:30px !important;
+}
+
+.nhatnam-members{
+  position:absolute;
+  top:76.5% !important;
+  left:89% !important;
+  color:#fff;
+  text-transform:uppercase;
+  font-size:30px !important;
+}
+
+.btn-sidebar{
+  position:fixed;
+  top:0;
+  background-color:#fff;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+  text-transform:uppercase;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.team{
+  list-style-type:none;
+}
+
+.project{
+  list-style-type:none;
+}
+
+label{
+ color:#fff;
+ margin-left:20%;
 }
 
 @media screen and (min-width:1150px) and (max-width:1440px){
