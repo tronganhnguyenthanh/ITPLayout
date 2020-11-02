@@ -380,26 +380,26 @@ p{
 }
 
 .sidenav {
-  height: 100%;
-  width: 0;
+  height:100%; 
+  width:15% !important;
   position: fixed;
   z-index: 1;
   top: 0;
   left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
+  background-color:#111;
+  overflow-x:hidden;
+  transition:0.5s;
+  padding-top:60px;
   text-transform:uppercase;
 }
 
 .sidenav a {
   padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #818181;
-  display: block;
-  transition: 0.3s;
+  text-decoration:none;
+  font-size:19px;
+  color:#fff;
+  display:block;
+  transition:0.3s;
 }
 
 .sidenav a:hover {
@@ -1511,4 +1511,231 @@ label{
   .fourth-member{
     margin-top:-8% !important;
   }
+}
+.dropbtn {
+  background-color: #111;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  margin-left:-20%;
+}
+
+.dropbtn:hover, .dropbtn:focus {
+  background-color:#111 !important;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+  left:7%;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  overflow: auto;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  left:92%;
+  top:4%;
+}
+
+.dropdown-content a {
+  color:#111;
+  padding: 12px 16px;
+  text-decoration: none;
+  display:block;
+  font-size:16px;
+}
+
+.dropdown a:hover {
+  background-color:#ddd;
+}
+
+.show {
+  display:block;
+  margin-left:11%;
+}
+
+.staff{
+  margin-left:10%;
+}
+
+a{
+ cursor:pointer;
+}
+
+.student {
+  background-color:#111;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 30%;
+  opacity: 0.9;
+  margin-left:10%;
+}
+
+.student:hover {
+  opacity:1;
+}
+
+/* Float cancel and delete buttons and add an equal width */
+.cancelbtn, .deletebtn {
+  float: left;
+  width: 50%;
+}
+
+/* Add a color to the cancel button */
+.cancelbtn {
+  background-color: #ccc;
+  color: black;
+}
+
+/* Add a color to the delete button */
+.deletebtn {
+  background-color: #f44336;
+}
+
+/* Add padding and center-align text to the container */
+.container {
+  padding: 16px;
+  text-align: center;
+}
+
+/* The Modal (background) */
+.modal {
+  display:none; /* Hidden by default */
+  position:fixed; /* Stay in place */
+  z-index:1; /* Sit on top */
+  left:0;
+  top:0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow:auto; /* Enable scroll if needed */
+  background-color:dodgerblue;
+  padding-top:50px;
+}
+
+/* Modal Content/Box */
+.modal-content {
+  background-color:#fefefe;
+  margin:5% auto 15% auto; /* 5% from the top, 15% from the bottom and centered */
+  border:1px solid #888;
+  width:45%; /* Could be more or less, depending on screen size */
+}
+
+/* Style the horizontal ruler */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+ 
+/* The Modal Close Button (x) */
+.close {
+  position: absolute;
+  right: 35px;
+  top: 15px;
+  font-size: 40px;
+  font-weight: bold;
+  color: #f1f1f1;
+}
+
+.close:hover,
+.close:focus {
+  color:#fff;
+  cursor: pointer;
+}
+
+/* Clear floats */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Change styles for cancel button and delete button on extra small screens */
+@media screen and (max-width: 300px) {
+  .cancelbtn, .deletebtn {
+     width: 100%;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  resize: vertical;
+}
+
+label {
+  padding: 12px 12px 12px 0;
+  display: inline-block;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  float: right;
+  margin-top:5%;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container {
+  border-radius:5px;
+  background-color:#00BFFF;
+  padding:20px;
+  border:1px solid #fff;
+}
+
+.col-25 {
+  float: left;
+  width: 25%;
+  margin-top: 6px;
+}
+
+.col-75 {
+  float: left;
+  width:75%;
+  margin-top: 6px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+  .col-25, .col-75, input[type=submit] {
+    width: 100%;
+    margin-top: 0;
+  }
+}
+
+h1{
+ color:#fff;
+}
+
+.student1{
+  margin-left:5%;
 }
