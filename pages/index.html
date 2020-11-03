@@ -6,7 +6,6 @@
   <title>ITP Company</title>
   <link rel="stylesheet" href="../assets/css/style.css">
   <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="../assets/images/icon.jpg"/>
 </head>
 <body>
   <div class="row">
@@ -113,45 +112,25 @@
   </div>
   <div id="mySidenav" class="sidenav">
     <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-    <a href="#">khối</a>
-    <div class="dropdown">
-      <a onclick="myFunction()" class="dropbtn">
-        dự án
-      </a>
-      <div id="myDropdown" class="dropdown-content">
-        <a href="#">Dự án v-set 1</a>
-        <a href="#">Dự án v-set 2</a>
-        <a href="#">Dự án Nhật Nam 1</a>
-        <a href="#">Dự án Nhật Nam 2</a>
-      </div>
-    </div>
-    <a href="#">đội</a>
-    <a href="#">
-      nhân viên
+    <a onclick="document.getElementById('id02').style.display='block'">
+      khối
     </a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Tiên</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Thủy</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Phượng</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Bình</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Lý</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Nga</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Hồng</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Vân</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Vy</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Huy</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Như</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Duyên</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Huyền</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Hương</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Hằng</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Phương</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student1">Tuấn Anh</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Phú</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student">Như</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student1">Thanh Trúc</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student1">Hữu Vinh</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student1">Trung Vĩnh</a>
-    <a onclick="document.getElementById('id01').style.display='block'" class="student1">Thành Đạt</a>
+    <br/>
+    <a onclick="document.getElementById('id01').style.display='block'">
+      dự án
+    </a>
+    <br/>
+    <a onclick="document.getElementById('id01').style.display='block'">
+      đội
+    </a>
+    <br/>
+    <a onclick="document.getElementById('id01').style.display='block'">
+      vị trí
+    </a>
+    <br/>
+    <a onclick="document.getElementById('id01').style.display='block'">
+      Nhân viên
+    </a>
     <div id="id01" class="modal">
       <span onclick="document.getElementById('id01').style.display='none'" class="close" title="Close Modal">×</span>
       <form class="modal-content">
@@ -162,32 +141,53 @@
               <label for="fname">Họ và tên</label>
             </div>
             <div class="col-75">
-              <input type="text" id="fname" name="firstname" placeholder="Your name.." required>
+              <select id="name" name="fullName">
+                 <option>Chọn nhân viên</option>
+                 <option>Tiên</option>
+                 <option>Thủy</option>
+                 <option>Phượng</option>
+                 <option>Bình</option>
+                 <option>Lý</option>
+                 <option>Nga</option>
+                 <option>Hồng</option>
+                 <option>Vân</option>
+                 <option>Vy</option>
+                 <option>Huy</option>
+                 <option>Như</option>
+                 <option>Duyên</option>
+                 <option>Huyền</option>
+                 <option>Hương</option>
+                 <option>Hằng</option>
+                 <option>Phương</option>
+                 <option>Tuấn Anh</option>
+                 <option>Phú</option>
+                 <option>Thanh Trúc</option>
+                 <option>Hữu Vinh</option>
+                 <option>Trung Vĩnh</option>
+                 <option>Thành Đạt</option>
+              </select>
             </div>
           </div>
           <div class="row">
             <div class="col-25">
-              <label for="position">Chức vụ</label>
+              <label for="position">Chức vụ và nhiệm vụ</label>
             </div>
             <div class="col-75">
               <select id="position" name="position">
-                <option>CSKH.NV 1</option>
-                <option>Trưởng Team</option>
-                <option>CSKH.NV Moi</option>
-                <option>CSKH.TV</option>
+                <option>Chọn vị trí</option>
+                <option>Content</option>
+                <option>Ads</option>
+                <option>Video</option>
+                <option>SEO</option>
+                <option>Design</option>
+                <option>CSKH.NV1</option>
+                <option>Trưởng team</option>
+                <option>Cskh.nv moi</option>
+                <option>Cskh.tv</option>
               </select>
             </div>
           </div>
-          <div class="row">
-            <div class="col-25">
-              <label for="mission">Nhiệm vụ</label>
-            </div>
-            <div class="col-75">
-              <select id="mission" name="mission">
-                <option>Tạo Data</option>
-              </select>
-            </div>
-          </div>
+         
           <div class="row">
             <div class="col-25">
               <label>Data trong tuần</label>
@@ -196,7 +196,25 @@
               <input type="text" placeholder="Data trong tuần" required>
             </div>
           </div>
-          <div class="row">
+           <div class="row">
+            <div class="col-25">
+              <label>số hợp đồng</label>
+            </div>
+            <div class="col-75">
+              <input type="text" placeholder="Số hợp đồng" required>
+            </div>
+           </div>
+
+           <div class="row">
+            <div class="col-25">
+              <label>Số hợp đồng ký không thành công</label>
+            </div>
+            <div class="col-75">
+              <input type="text" placeholder="Số hợp đồng ký không thành công" required>
+            </div>
+           </div>
+           
+           <div class="row">
             <div class="col-25">
               <label>KPI</label>
             </div>
@@ -207,6 +225,33 @@
           <div class="row">
             <input type="submit" value="Lưu">
           </div>
+        </div>
+      </form>
+    </div>
+    <div id='id02' class="modal">
+      <span onclick="document.getElementById('id02').style.display='none'" class="close" title="Close Modal">×</span>
+      <form class="modal-content">
+        <div class="container">
+          <h1>Khối</h1>
+          <div class="row">
+            <div class="col-25">
+              <label>Tên</label>
+            </div>
+            <div class="col-75">
+              <input type="text" placeholder="Tên" required>
+            </div>
+           </div>
+           <div class="row">
+            <div class="col-25">
+              <label>Ngân sách</label>
+            </div>
+            <div class="col-75">
+              <input type="text" placeholder="Ngân sách" required>
+            </div>
+            <div class="row">
+              <input type="submit" value="Lưu">
+            </div>
+           </div>
         </div>
       </form>
     </div>
